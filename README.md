@@ -73,6 +73,7 @@ feel free to join [our discord](https://discord.gg/8UPuVZ53bh) if you beleive ai
 - **Compliance Agent** (`compliance_agent.py`): Analyzes TikTok ads for Facebook advertising compliance, extracting frames and transcribing audio to check against FB guidelines
 - **Housecoin Agent** (`housecoin_agent.py`): DCA (dollar cost average) agent with AI confirmation layer using Grok-4 for the thesis: 1 House = 1 Housecoin 🏠
 - **Polymarket Agent** (`polymarket_agent.py`): Connects to the live trades feed via WebSocket and analyzes with the swarm agent to see which markets could be interesting to trade
+- **Scrape Agent** (`scrape_agent.py`): This agent can scrape any website and then submit it to ai and get a response. unlimited use cases. 
 
 
 ## ⚠️ Critical Disclaimers
@@ -138,7 +139,7 @@ cd moon-dev-ai-agents-for-trading
 
 **Recommended IDEs:**
 - [Cursor](https://www.cursor.com/) - AI-enabled coding
-- [Windsurfer](https://codeium.com/) - AI-enabled coding
+- [Windsurf](https://codeium.com/) - AI-enabled coding
 
 ### Step 3: 🔑 Set Up Environment Variables
 
