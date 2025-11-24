@@ -1,3 +1,6 @@
+To DO:
+check Volume Agent and ... 
+
 # 🤖 AI AGENTS FOR TRADING
 
 <p align="center">
